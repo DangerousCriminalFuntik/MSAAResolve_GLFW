@@ -1,0 +1,1 @@
+MSAAResolveTest.exe -adaptervendor=NVIDIA
